@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orquestrador Universal"
+  short_description: "Modelos adaptáveis, revisão central e contexto mínimo"
+  default_prompt: "Use $universal-orchestrator para concluir esta tarefa com executores adequados do catálogo atual, quantidade adaptável e revisão final pelo modelo desta conversa."
